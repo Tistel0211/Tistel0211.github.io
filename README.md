@@ -29,13 +29,10 @@
 
 <br><br>
 
-# [관련 이미지 & 동영상]
+# [관련 동영상]
 
-- 이미지  
-  <img src="./img/관련이미지.jpg">
 - 동영상
 
-  {% includes youtube.html id="YSpo2VvN0SM" %}  
   [![](http://img.youtube.com/vi/YSpo2VvN0SM/0.jpg)](https://youtu.be/YSpo2VvN0SM)
 
 <br><br>
