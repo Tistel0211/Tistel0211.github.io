@@ -35,6 +35,7 @@
   <img src="./img/관련이미지.jpg">
 - 동영상
 
+  {% include youtube.html id="YSpo2VvN0SM" %}  
   [![](http://img.youtube.com/vi/YSpo2VvN0SM/0.jpg)](https://youtu.be/YSpo2VvN0SM)
 
 <br><br>
