@@ -52,9 +52,9 @@
 
 <br><br>
 
-# [<Dungeon Walker> 구성 요소]
+# [Dungeon Walker 구성 요소]
 
-- Dungeon Walker
+- 캐릭터를 성장시키며 강력한 보스에게 도전하는 액션 로그라이크게임
 
 <br>
 
