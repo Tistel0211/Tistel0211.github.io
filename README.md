@@ -115,3 +115,14 @@
 ## 4. 기술
 
 Unity
+
+# [게임 시스템 디자인] <a name='5'></a>
+
+# 1. 게임 오브젝트 분해 (구성 요소 분석)
+
+|연번|오브젝트 이름|오브젝트 이미지|
+|:----:|:----:|:----:|
+|1|Player|<img src="./img/player.png" width="500">|
+|2|Sword|<img src="./img/sword.png" width="500">|
+|3|Gun|<img src="./img/gun.png" height="300">|
+|4|Enemy|<img src="./img/enemy.png" height="300">|
