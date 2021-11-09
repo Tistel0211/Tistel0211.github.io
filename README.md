@@ -300,7 +300,7 @@ Unity
   
 &nbsp;&nbsp;&nbsp;&nbsp;1) ~~플레이어의 캐릭터로 사용할 에셋~~
      
-&nbsp;&nbsp;&nbsp;&nbsp;2) ~~이동, 공격, 회피 등 애니메이션
+&nbsp;&nbsp;&nbsp;&nbsp;2) ~~이동, 공격, 회피 등 애니메이션~~
      
 &nbsp;&nbsp;&nbsp;&nbsp;3) ~~캐릭터의 움직임 구현~~
      
