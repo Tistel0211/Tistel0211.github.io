@@ -292,37 +292,37 @@ Unity
      
 &nbsp;&nbsp;&nbsp;&nbsp;3) ~~게임종료를 위한 버튼 구현~~
      
-&nbsp;&nbsp;&nbsp;&nbsp;4. 조작키를 알 수 있는 메뉴 구현
+&nbsp;&nbsp;&nbsp;&nbsp;4. ~~조작키를 알 수 있는 메뉴 구현~~
      
-&nbsp;&nbsp;&nbsp;&nbsp;5. 게임 로고 구현
+&nbsp;&nbsp;&nbsp;&nbsp;5. ~~게임 로고 구현~~
   
-&nbsp;*플레이어의 캐릭터 구현
+ •플레이어의 캐릭터 구현
   
-     1) 플레이어의 캐릭터로 사용할 에셋
+&nbsp;&nbsp;&nbsp;&nbsp;1) ~~플레이어의 캐릭터로 사용할 에셋~~
      
-     2) 이동, 공격, 회피 등 애니메이션
+&nbsp;&nbsp;&nbsp;&nbsp;2) ~~이동, 공격, 회피 등 애니메이션
      
-     3) 캐릭터의 움직임 구현
+&nbsp;&nbsp;&nbsp;&nbsp;3) ~~캐릭터의 움직임 구현~~
      
-     4) 캐릭터의 파라미터 구현
+&nbsp;&nbsp;&nbsp;&nbsp;4) ~~캐릭터의 파라미터 구현~~
      
   •적의 구현 
   
-     1) 적으로 사용할 에셋
+&nbsp;&nbsp;&nbsp;&nbsp;1) 적으로 사용할 에셋
      
-     2) 이동, 공격 등 애니메이션
+&nbsp;&nbsp;&nbsp;&nbsp;2) 이동, 공격 등 애니메이션
      
-     3) 적의 움직임 구현
+&nbsp;&nbsp;&nbsp;&nbsp;3) 적의 움직임 구현
      
-     4) 적의 파라미터 구현
+&nbsp;&nbsp;&nbsp;&nbsp;4) 적의 파라미터 구현
      
   •맵의 구현 
   
-     1) 맵에 사용할 에셋
+&nbsp;&nbsp;&nbsp;&nbsp;1) 맵에 사용할 에셋
      
-     2) 맵 랜덤 생성 구현
+&nbsp;&nbsp;&nbsp;&nbsp;2) 맵 랜덤 생성 구현
      
-     3) 보스방 구현
+&nbsp;&nbsp;&nbsp;&nbsp;3) 보스방 구현
      
  
 <br><br>
