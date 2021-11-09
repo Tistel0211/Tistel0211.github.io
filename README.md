@@ -284,17 +284,17 @@ Unity
   
   ## b. 요구사항(6주) <a name='6-1-2'></a>
   
-&nbsp;*메인메뉴 구현
+•메인메뉴 구현
   
-&nbsp;&nbsp;1) 메인메뉴 뒷 배경 구현
+&nbsp;&nbsp;&nbsp;&nbsp;~~1.메인메뉴 뒷 배경 구현~~
      
-&nbsp;&nbsp;2) 게임시작을 위한 버튼 구현
+&nbsp;&nbsp;&nbsp;&nbsp;2.게임시작을 위한 버튼 구현<s></s>
      
-&nbsp;&nbsp;3) 게임종료를 위한 버튼 구현
+&nbsp;&nbsp;&nbsp;&nbsp;3. 게임종료를 위한 버튼 구현
      
-&nbsp;&nbsp;4) 조작키를 알 수 있는 메뉴 구현
+&nbsp;&nbsp;&nbsp;&nbsp;4. 조작키를 알 수 있는 메뉴 구현
      
-&nbsp;&nbsp;5) 게임 로고 구현
+&nbsp;&nbsp;&nbsp;&nbsp;5. 게임 로고 구현
   
 &nbsp;*플레이어의 캐릭터 구현
   
