@@ -308,9 +308,9 @@ Unity
      
   •적의 구현 
   
-&nbsp;&nbsp;&nbsp;&nbsp;1) 적으로 사용할 에셋
+&nbsp;&nbsp;&nbsp;&nbsp;1) ~~적으로 사용할 에셋~~
      
-&nbsp;&nbsp;&nbsp;&nbsp;2) 이동, 공격 등 애니메이션
+&nbsp;&nbsp;&nbsp;&nbsp;2) ~~이동, 공격 등 애니메이션~~
      
 &nbsp;&nbsp;&nbsp;&nbsp;3) 적의 움직임 구현
      
