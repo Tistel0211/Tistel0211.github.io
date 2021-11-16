@@ -323,7 +323,16 @@ Unity
 &nbsp;&nbsp;&nbsp;&nbsp;2) 맵 랜덤 생성 구현
      
 &nbsp;&nbsp;&nbsp;&nbsp;3) 보스방 구현
+
+  •인게임 UI구현
+  
+&nbsp;&nbsp;&nbsp;&nbsp;1) 체력과 지구력 UI 구현
      
+&nbsp;&nbsp;&nbsp;&nbsp;2) 현재 장비 UI 구현
+     
+&nbsp;&nbsp;&nbsp;&nbsp;3) 가진 포션의 개수 UI 구현
+
+&nbsp;&nbsp;&nbsp;&nbsp;4) 일시 정지 UI 구현
  
 <br><br>
 
