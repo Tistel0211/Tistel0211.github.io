@@ -316,15 +316,15 @@ Unity
      
 &nbsp;&nbsp;&nbsp;&nbsp;4) ~~적의 파라미터 구현~~
 
-&nbsp;&nbsp;&nbsp;&nbsp;5) 보스의 구현
+&nbsp;&nbsp;&nbsp;&nbsp;5) ~~보스의 구현~~
      
   •맵의 구현 
   
 &nbsp;&nbsp;&nbsp;&nbsp;1) ~~맵에 사용할 에셋~~
      
-&nbsp;&nbsp;&nbsp;&nbsp;2) 맵 랜덤 생성 구현
+&nbsp;&nbsp;&nbsp;&nbsp;2) ~~맵 랜덤 생성 구현~~
      
-&nbsp;&nbsp;&nbsp;&nbsp;3) 보스방 구현
+&nbsp;&nbsp;&nbsp;&nbsp;3) ~~보스방 구현~~
 
   •인게임 UI구현
   
@@ -334,9 +334,9 @@ Unity
      
 &nbsp;&nbsp;&nbsp;&nbsp;3) ~~가진 포션의 개수 UI 구현~~
 
-&nbsp;&nbsp;&nbsp;&nbsp;4) 일시 정지 UI 구현
+&nbsp;&nbsp;&nbsp;&nbsp;4) ~~일시 정지 UI 구현~~
 
-&nbsp;&nbsp;&nbsp;&nbsp;5) 사망시 UI 구현
+&nbsp;&nbsp;&nbsp;&nbsp;5) ~~사망시 UI 구현~~
  
 <br><br>
 
